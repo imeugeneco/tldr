@@ -6,4 +6,12 @@ Topics are as random as my netflix history.
 
 
 
+#### Bits
+
+* [2023-05](./bits/2023-05.md)
+
+
+
+#### Algorithms
+
 - [[05/27/2023] Sorting algorithms (bubble, insertion, selection, quick, merge)](./algorithms/sorting)
