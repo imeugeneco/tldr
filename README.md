@@ -15,3 +15,4 @@ Topics are as random as my netflix history.
 #### Algorithms
 
 - [[05/27/2023] Sorting algorithms (bubble, insertion, selection, quick, merge)](./algorithms/sorting)
+- [[05/28/2023] Dynamic programming algorithm practices](./algorithms/README.md/#Practices)
