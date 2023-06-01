@@ -7,6 +7,7 @@ Topics are as random as my netflix history.
 #### Bits
 
 - [2023-05](./bits/2023-05.md)
+- [2023-06](./bits/2023-06.md)
 
 #### Algorithms
 
