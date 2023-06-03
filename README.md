@@ -15,7 +15,7 @@ Topics are as random as my netflix history.
 
 #### Algorithms
 
-- [Practices]((./algorithms/README.md/#Practices))
+- [Practices](./algorithms/README.md/#Practices)
 
 
 
