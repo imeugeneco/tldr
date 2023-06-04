@@ -1,8 +1,14 @@
 # tl;dr
 
-A dump of TLDRs on whatever im reading/learning, summarized and stashed for future reference, because everyone seems to have their own tech blogs but i lack the self-discipline and commitment for one.
+An organized dump of code snippets, notes, resources, etc. summarized and stashed for future reference, because everyone seems to have their own tech blogs but i lack the self-discipline and commitment for one.
 
 Topics are as random as my netflix history.
+
+
+
+#### Algorithms
+
+- [Practices](./algorithms/README.md/#Practices)
 
 
 
@@ -13,12 +19,13 @@ Topics are as random as my netflix history.
 
 
 
-#### Algorithms
-
-- [Practices](./algorithms/README.md/#Practices)
-
-
-
 #### Other
 
 * [Dev Reads](./reads/dev-reads.md)
+
+
+
+#### TL;DR
+
+* [What's New in TypeScript 5.1](./tldr/ts5.1.md)
+
