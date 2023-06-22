@@ -12,3 +12,4 @@
 - [Selection Sort](selection-sort.py)
 - [Quick Sort](quick-sort.py)
 - [Merge Sort](merge-sort.py)
+- [Heap Sort](heap-sort.py)
